@@ -52,10 +52,10 @@ section{
     background-color: #f4f4f4;
     color: #666;
 }
-.section-dark{
+/* .section-dark{
     background-color: #282e34;
     color: #ddd;
-}
+} */
 .text1{
     position: absolute;
     top: 50%;
@@ -77,7 +77,7 @@ section{
 }
 
 @media(max-width:568px){
-    .img1, .img2, .img3, .img4, .img5, .forest{
+    .img1, .img2, .img3, .img4, .img5{
         background-attachment: scroll;
     }
 }
